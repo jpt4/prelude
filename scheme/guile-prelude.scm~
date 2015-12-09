@@ -1,0 +1,3 @@
+;guile-prelude.scm  jpt4  UTC20151209
+;Functions with cross-program utility for Guile Scheme
+;Developed against Guile v. 2.2
